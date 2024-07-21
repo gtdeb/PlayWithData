@@ -1,0 +1,14 @@
+pip install fastapi
+pip install pymongo
+pip install PyJWT
+pip install email-validator
+
+python -m venv rmp_env
+rmp_env\Scripts\activate
+
+
+
+http://127.0.0.1:8000/docs
+http://127.0.0.1:8000/redocs
+
+
